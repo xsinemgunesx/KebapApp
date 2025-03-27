@@ -40,7 +40,7 @@ npx react-native run-ios       # iOS için
 ```
 
 ## 📷 Ekran Görüntüsü
-![Kayıt Formu](./kb2.jpg) ![kb1](https://github.com/user-attachments/assets/045c5ab5-0fb2-48b6-adac-c0508748048d) ![kb2](https://github.com/user-attachments/assets/050a005f-30b4-4e5e-9569-5f0bf10dd95c) ![kb3](https://github.com/user-attachments/assets/52c95bda-2d10-4448-b0fc-c74a1298608a)
+ ![kb1](https://github.com/user-attachments/assets/045c5ab5-0fb2-48b6-adac-c0508748048d) ![kb2](https://github.com/user-attachments/assets/050a005f-30b4-4e5e-9569-5f0bf10dd95c) ![kb3](https://github.com/user-attachments/assets/52c95bda-2d10-4448-b0fc-c74a1298608a)
 
 
 
